@@ -1,4 +1,4 @@
--  Hi, I’m @Dhruv-240
+-  Hi, I’m Dhruv Bhateja
 -  I’m interested in nothing
 -  I’m currently learning B.Tech
 - I’m looking to collaborate on Github
